@@ -1,0 +1,22 @@
+node -v
+npm -v
+tsc -v
+npm init --y
+tsc --init
+npm i @types/node
+npm i -g ts-node
+
+run :- 
+    1.) tsc
+        node app.js
+
+    2.) tsc app.ts app.js
+
+    3.) ts-node filename.js
+
+modules :-
+    npm i express @types/express
+    npm i typescript
+
+in package.json
+    "start" : "nodemon
