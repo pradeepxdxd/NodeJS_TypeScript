@@ -19,4 +19,4 @@ modules :-
     npm i typescript
 
 in package.json
-    "start" : "nodemon
+    "start" : "nodemon app.ts"
